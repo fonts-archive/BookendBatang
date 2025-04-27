@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Bookend Batang';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/BookendBatang/BookendBatang-Regular.woff2') format('woff2'),
+      url('https://cdn.jsdelivr.net/gh/fonts-archive/BookendBatang/BookendBatang-Regular.woff') format('woff'),
+      url('https://cdn.jsdelivr.net/gh/fonts-archive/BookendBatang/BookendBatang-Regular.otf') format('opentype'),
+      url('https://cdn.jsdelivr.net/gh/fonts-archive/BookendBatang/BookendBatang-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Bookend Batang';
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/BookendBatang/BookendBatang-SemiBold.woff2') format('woff2'),
+      url('https://cdn.jsdelivr.net/gh/fonts-archive/BookendBatang/BookendBatang-SemiBold.woff') format('woff'),
+      url('https://cdn.jsdelivr.net/gh/fonts-archive/BookendBatang/BookendBatang-SemiBold.otf') format('opentype'),
+      url('https://cdn.jsdelivr.net/gh/fonts-archive/BookendBatang/BookendBatang-SemiBold.ttf') format('truetype');
+}
